@@ -1,0 +1,213 @@
+{
+ "Achievements": {
+  "Boom Goes the Dynamite": {
+   "Complete": false
+  },
+  "Boxer": {
+   "Complete": false
+  },
+  "Dual Wielding": {
+   "Complete": false
+  },
+  "Flawless Victory": {
+   "Complete": false
+  },
+  "Free Loader": {
+   "Complete": true
+  },
+  "Gold Miner": {
+   "Complete": false
+  },
+  "Got the Moves": {
+   "Complete": false
+  },
+  "In Control": {
+   "Complete": false
+  },
+  "Last Stand God": {
+   "Complete": false
+  },
+  "Last Stand Master": {
+   "Complete": false
+  },
+  "Last Stand Wizard": {
+   "Complete": false
+  },
+  "Mine Games": {
+   "Complete": false
+  },
+  "Off You Go Then": {
+   "Complete": false
+  },
+  "Onslaught God": {
+   "Complete": false
+  },
+  "Onslaught Master": {
+   "Complete": false
+  },
+  "Onslaught Training Victory": {
+   "Complete": false
+  },
+  "Onslaught Wizard": {
+   "Complete": false
+  },
+  "Precision Bombing": {
+   "Complete": false
+  },
+  "Pro Boxer": {
+   "Complete": false
+  },
+  "Pro Football Shutout": {
+   "Complete": false
+  },
+  "Pro Football Victory": {
+   "Complete": false
+  },
+  "Pro Onslaught Victory": {
+   "Complete": false
+  },
+  "Pro Runaround Victory": {
+   "Complete": false
+  },
+  "Rookie Football Shutout": {
+   "Complete": false
+  },
+  "Rookie Football Victory": {
+   "Complete": false
+  },
+  "Rookie Onslaught Victory": {
+   "Complete": false
+  },
+  "Runaround God": {
+   "Complete": false
+  },
+  "Runaround Master": {
+   "Complete": false
+  },
+  "Runaround Wizard": {
+   "Complete": false
+  },
+  "Sharing is Caring": {
+   "Complete": false
+  },
+  "Stayin' Alive": {
+   "Complete": false
+  },
+  "Super Mega Punch": {
+   "Complete": false
+  },
+  "Super Punch": {
+   "Complete": false
+  },
+  "TNT Terror": {
+   "Complete": false
+  },
+  "Team Player": {
+   "Complete": false
+  },
+  "The Great Wall": {
+   "Complete": false
+  },
+  "The Wall": {
+   "Complete": false
+  },
+  "Uber Football Shutout": {
+   "Complete": false
+  },
+  "Uber Football Victory": {
+   "Complete": false
+  },
+  "Uber Onslaught Victory": {
+   "Complete": false
+  },
+  "Uber Runaround Victory": {
+   "Complete": false
+  }
+ },
+ "Auto Account State": "Server",
+ "Auto Balance Teams": true,
+ "Campaigns": {},
+ "Color Text": {
+  "\ue020New Latest Version Bombsquad 1.6\ue020": [
+   1,
+   1,
+   1
+  ]
+ },
+ "Colors": [
+  1,
+  1,
+  1
+ ],
+ "Default Player Profiles": {
+  "Client Input Device #1": "ehsan",
+  "Client Input Device #2": "xSagar25",
+  "Client Input Device #3": "__account__",
+  "Client Input Device #4": "__account__",
+  "Client Input Device #5": "\ud83d\ude08DEVIL'S\ud83d\ude08",
+  "Client Input Device #6": "\ud835\ude83\ud835\ude74\ud835\ude7f\ud835\ude89"
+ },
+ "Free-for-All Playlist Randomize": true,
+ "Free-for-All Playlist Selection": "__default__",
+ "Free-for-All Playlists": {},
+ "Icon List": "Icons",
+ "Idle Exit Minutes": null,
+ "Local Account Name": "Server2749381",
+ "Multicolor": false,
+ "Player Profiles": {
+  "__account__": {
+   "character": "Spaz",
+   "color": [
+    0.5,
+    0.25,
+    1.0
+   ],
+   "highlight": [
+    0.5,
+    0.25,
+    1.0
+   ]
+  }
+ },
+ "Plugins": {
+  "importcustomcharacters.HeySmoothy": {
+   "enabled": true
+  },
+  "powerups.Register": {
+   "enabled": true
+  }
+ },
+ "Port": 43210,
+ "Region Pings": {
+  "af-south-1": 158.0235956744873,
+  "ap-northeast-1": 128.22706279484555,
+  "ap-northeast-2": 123.80927486016299,
+  "ap-south-1": 0.671766935343317,
+  "ap-southeast-1": 60.673796349350596,
+  "ap-southeast-2": 148.02872792484413,
+  "ca-central-1": 186.2825387994817,
+  "eu-central-1": 113.87027778754418,
+  "eu-north-1": 133.80663244306925,
+  "eu-south-1": 106.60722152030212,
+  "eu-west-1": 123.32702794625948,
+  "eu-west-2": 111.8152821080148,
+  "eu-west-3": 105.034857641891,
+  "me-south-1": 37.631457746297286,
+  "sa-east-1": 297.99566475614847,
+  "us-east-1": 184.4989929539297,
+  "us-east-2": 195.35090204638254,
+  "us-west-1": 230.2260988314083,
+  "us-west-2": 225.22983233669947
+ },
+ "Show Tutorial": false,
+ "Signed In Last Session": false,
+ "Team Tournament Playlists": {},
+ "Texts": "TextMod",
+ "Texts List": [
+  "\ue020New Latest Version Bombsquad 1.6\ue020"
+ ],
+ "Window": true,
+ "launchCount": 49,
+ "lc14173": 1,
+ "lc14292": 1
+}
