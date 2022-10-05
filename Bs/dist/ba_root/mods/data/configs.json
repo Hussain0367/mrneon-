@@ -1,0 +1,78 @@
+{
+    "chat": {
+        "bot": true,
+        "spam_time": 3,
+        "chat_log": true,
+        "beg_check": true,
+        "abuse_check": true,
+        "spam_protection": true,
+        "hidden_commands": [
+            "kick",
+            "warn",
+            "dm",
+            "help"
+        ]
+    },
+    "nightmode": {
+        "status": false,
+        "start": 18,
+        "end": 7
+    },
+    "autorole": {
+        "status": false,
+        "admins": 3,
+        "elites": 10
+    },
+    "cooldown": {
+        "info": 50,
+        "find": 500,
+        "stats": 100,
+        "redeem": 200,
+        "promote": 200
+    },
+    "backup_service": {
+        "status": true,
+        "period": "weekly",
+        "files": [
+            "stats",
+            "roles"
+        ]
+    },
+    "spaz": {
+        "glow": true,
+        "hidden_tags": []
+    },
+    "kick_idles": {
+        "in_lobby": false,
+        "in_lobby_time": 5,
+        "in_game": false,
+        "in_game_time": 60
+    },
+    "server": {
+        "queue_id": "",
+        "universal_ban": true,
+        "tickets_service": true,
+        "whitelist_mode": false,
+        "kick_newly_created_ids": true
+    },
+    "game": {
+        "snowfall": false,
+        "log_toppers": true,
+        "registration": false,
+        "merge_roles": [
+            "moderators",
+            "owners",
+            "admins"
+        ]
+    },
+    "maptext": {
+        "main": [
+            "?グJoin Discord OR Whatapp To join upcoming Tournament?グ\n?グFor Get Adminship?グ",
+            "\ue048Click On Server Stats Button To Join Discord\ue048",
+            "\ue048Welcome To Bombspot\ue048",
+            "\ue048Useful command /shop effects /skin /shop items /buy tag Your Name\ue048"
+        ],
+        "bottom_left": "\ue048Owner: MR INDIA\ue048",
+        "bottom_right": "\ue047Editor: MR INDIA\ue047"
+    }
+}
